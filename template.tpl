@@ -11,7 +11,7 @@ ___INFO___
 {
   "displayName": "GA - Product Array Mapper - Builder",
   "categories": ["CONVERSIONS", "ANALYTICS", "UTILITY"],
-  "description": "Build a GA Enhanced or Standard Ecommace product array variable using any site's product object by mapping the original object's key value into each value of the properly formatted GA product object.",
+  "description": "Build a GA Enhanced or Standard Ecommerce product array variable using any site's product object by mapping the original object's key value into each value of the properly formatted GA product object.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "MACRO",
