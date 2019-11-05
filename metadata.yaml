@@ -14,5 +14,5 @@
 homepage: "https://www.wpromote.com"
 documentation: "https://github.com/Mikeulrich75/GAProductArrayBuilder/blob/master/README.md"
 versions:
-  - sha: f962e89217b1ec7ac48e55351859dbf0c51cd418
+  - sha: aa3f33837068c46d6f0cc641916aabe077ee8b54
     changeNotes: Initial Version
