@@ -14,5 +14,9 @@
 homepage: "https://www.wpromote.com"
 documentation: "https://github.com/Mikeulrich75/GAProductArrayBuilder/blob/master/README.md"
 versions:
+  # Latest version
+  - sha: a0270026a34ccd74165d7604061237d35149ae10
+    changeNotes: Added App + Web Item Array Functionality
+  # Older versions
   - sha: aa3f33837068c46d6f0cc641916aabe077ee8b54
     changeNotes: Initial Version
