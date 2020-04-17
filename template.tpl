@@ -11,7 +11,7 @@ ___INFO___
 {
   "displayName": "GA - Product Array Builder",
   "categories": ["CONVERSIONS", "ANALYTICS", "UTILITY"],
-  "description": "Use a sites product array to build a new GA Standard, Enhanced or App+Web product array by mapping each product obj keys value from the original product obj to its proper key in the new array.",
+  "description": "Use a site's product array to build a new GA Standard, Enhanced or App+Web product array by mapping each product obj keys value from the original product obj to its proper key in the new array.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "MACRO",
@@ -60,7 +60,7 @@ ___TEMPLATE_PARAMETERS___
     "valueHint": "Place product object / array var"
   },
   {
-    "help": "Leave blank if you don\u0027t want to enable",
+    "help": "Leave blank if you don't want to enable",
     "enablingConditions": [
       {
         "paramName": "eCommType",
@@ -74,7 +74,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "skuParam",
@@ -97,7 +97,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "idParam",
@@ -120,7 +120,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "item_idParam",
@@ -136,7 +136,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "nameParam",
@@ -159,7 +159,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "item_nameParam",
@@ -182,7 +182,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "categoryParam",
@@ -205,7 +205,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "item_categoryParam",
@@ -235,7 +235,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "brandParam",
@@ -258,7 +258,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "item_brandParam",
@@ -281,7 +281,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "variantParam",
@@ -304,7 +304,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "item_variantParam",
@@ -320,7 +320,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "priceParam",
@@ -336,7 +336,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "quantityParam",
@@ -359,7 +359,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "macrosInSelect": false,
         "selectItems": [
           {
@@ -400,7 +400,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "macrosInSelect": false,
         "selectItems": [
           {
@@ -441,7 +441,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "affiliationParam",
@@ -464,7 +464,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "discountParam",
@@ -487,7 +487,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "couponParam",
@@ -510,7 +510,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "currencyParam",
@@ -533,7 +533,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "item_list_nameParam",
@@ -556,7 +556,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "promotion_idParam",
@@ -579,7 +579,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "promotion_nameParam",
@@ -602,7 +602,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "creative_nameParam",
@@ -625,7 +625,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "creative_slotParam",
@@ -648,7 +648,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "displayName": "",
         "simpleValueType": true,
         "name": "location_idParam",
@@ -671,7 +671,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "macrosInSelect": false,
         "selectItems": [
           {
@@ -804,7 +804,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Leave blank if you don\u0027t want to enable",
+        "help": "Leave blank if you don't want to enable",
         "macrosInSelect": false,
         "selectItems": [
           {
