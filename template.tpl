@@ -11,7 +11,7 @@ ___INFO___
 {
   "displayName": "GA - Product Array Builder",
   "categories": ["CONVERSIONS", "ANALYTICS", "UTILITY"],
-  "description": "Use a site's product array to build a new GA Standard, Enhanced or App+Web product array by mapping each product obj keys value from the original product obj to its proper key in the new array.",
+  "description": "Use a sites product array to build a properly formatted Standard, Enhanced or GA4 product array by mapping each product obj keys value from the original product obj to the proper key in the new obj.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "MACRO",
@@ -38,7 +38,7 @@ ___TEMPLATE_PARAMETERS___
         "value": "enhanced"
       },
       {
-        "displayValue": "App + Web",
+        "displayValue": "Google Analytics 4",
         "value": "app + web"
       }
     ],
