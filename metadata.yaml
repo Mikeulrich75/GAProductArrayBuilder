@@ -15,9 +15,11 @@ homepage: "https://www.wpromote.com"
 documentation: "https://github.com/Mikeulrich75/GAProductArrayBuilder/blob/master/README.md"
 versions:
   # Latest version
+  - sha: 4005b024c5fe83334d8adecf53a3449359cba85d
+    changeNotes: Fixed GA4 item_id parameter so that it shows correctly in the items array when pulled from a single object 
+  # Older versions
   - sha: 164b64e0bf31dadc6bc9756634b0aec81c434ef1
     changeNotes: Updated App + Web items array to reflect the name change to GA4
-  # Older versions
   - sha: a0270026a34ccd74165d7604061237d35149ae10
     changeNotes: Added App + Web Item Array Functionality
   - sha: aa3f33837068c46d6f0cc641916aabe077ee8b54
