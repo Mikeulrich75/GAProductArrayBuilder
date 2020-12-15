@@ -974,7 +974,7 @@ if (type == 'object') {
         id: products[idParam]
     } : undefined;
     const item_id = item_idParam && type == 'object' ? {
-    	item_idParam: products[item_idParam]
+    	item_id: products[item_idParam]
 	} : undefined;
     const name = nameParam && type == 'object' ? {
         name: products[nameParam]
