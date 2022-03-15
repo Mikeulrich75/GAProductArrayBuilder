@@ -2,7 +2,7 @@
 Build a GA Enhanced, Standard or App + Web Ecommerce product array variable using any site's product object by mapping the original object's key value into each value of your new properly formatted product object.
 
 # Author
-Michael Ulrich (https://www.wpromote.com/).
+[Michael Ulrich](https://github.com/Mikeulrich75)
 
 # Release Notes
 | Date | Notes |
